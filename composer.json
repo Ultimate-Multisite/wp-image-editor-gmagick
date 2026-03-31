@@ -1,0 +1,21 @@
+{
+    "name": "ultimate-multisite/gmagick-image-editor",
+    "description": "WordPress image editor using Gmagick (GraphicsMagick). Faster alternative to Imagick with WebP and AVIF support.",
+    "type": "wordpress-muplugin",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "David Stone",
+            "homepage": "https://github.com/superdav42"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "composer/installers": "^1.0 || ^2.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/installers": true
+        }
+    }
+}
