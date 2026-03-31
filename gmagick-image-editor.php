@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: WP Image Editor Gmagick
+ * Plugin Name: Gmagick Image Editor
  * Plugin URI: https://github.com/Ultimate-Multisite/wp-image-editor-gmagick
  * Description: WordPress image editor using Gmagick (GraphicsMagick). Faster alternative to Imagick with WebP and AVIF support.
  * Version: 1.0.0
