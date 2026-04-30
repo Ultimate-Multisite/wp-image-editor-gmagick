@@ -15,7 +15,12 @@
     },
     "config": {
         "allow-plugins": {
-            "composer/installers": true
+            "composer/installers": true,
+            "phpstan/extension-installer": true
         }
+    },
+    "require-dev": {
+        "szepeviktor/phpstan-wordpress": "^2.0",
+        "phpstan/extension-installer": "^1.1"
     }
 }
