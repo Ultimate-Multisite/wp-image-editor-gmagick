@@ -2,7 +2,7 @@
 Contributors: superdav42
 Tags: gmagick, graphicsmagick, image, webp, avif, performance
 Requires at least: 5.3
-Tested up to: 6.8
+Tested up to: 7.0
 Requires PHP: 7.4
 Stable tag: 1.0.0
 License: GPL-3.0-or-later
