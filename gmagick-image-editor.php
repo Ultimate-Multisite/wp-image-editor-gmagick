@@ -10,7 +10,7 @@
  * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  * Requires PHP: 7.4
  * Requires at least: 5.3
- * Tested up to: 7.0
+ * Tested up to: 7.1
  *
  * @package WP_Image_Editor_Gmagick
  */
