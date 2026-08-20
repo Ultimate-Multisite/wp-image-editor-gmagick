@@ -3,7 +3,7 @@
  * Plugin Name: Gmagick Image Editor
  * Plugin URI: https://github.com/Ultimate-Multisite/wp-image-editor-gmagick
  * Description: WordPress image editor using Gmagick (GraphicsMagick). Faster alternative to Imagick with WebP and AVIF support.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author: Ultimate Multisite
  * Author URI: https://ultimatemultisite.com
  * License: GPL-3.0-or-later
@@ -13,6 +13,10 @@
  *
  * @package WP_Image_Editor_Gmagick
  */
+
+if ( ! defined( 'WP_IMAGE_EDITOR_GMAGICK_VERSION' ) ) {
+	define( 'WP_IMAGE_EDITOR_GMAGICK_VERSION', '1.0.1' );
+}
 
 defined( 'ABSPATH' ) || exit;
 

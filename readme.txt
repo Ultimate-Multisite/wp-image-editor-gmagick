@@ -4,7 +4,7 @@ Tags: gmagick, graphicsmagick, image, webp, avif, performance
 Requires at least: 5.3
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPL-3.0-or-later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -76,6 +76,10 @@ The plugin does nothing. WordPress falls back to its default editors (Imagick or
 For typical WordPress operations (resize, crop, thumbnail), yes. GraphicsMagick uses less memory and processes images faster than ImageMagick in most benchmarks. The difference is most noticeable on sites that generate many image sizes on upload.
 
 == Changelog ==
+
+= 1.0.1 =
+Version 1.0.1 - Released on 2026-08-19
+- Improved: WordPress compatibility metadata now reflects testing through WordPress 7.1.
 
 = 1.0.0 =
 * Initial release
